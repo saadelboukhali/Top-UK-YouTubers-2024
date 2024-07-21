@@ -1,7 +1,6 @@
 # Data Portfolio: Excel to Power BI 
 
 
-
 ![Uploading kaggle_to_powerbi (1).gif…]()
 
 
