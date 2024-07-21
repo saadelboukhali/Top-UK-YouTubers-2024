@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI 
 
 
-assets/images/kaggle_to_power bi.gif
+[assets/images/kaggle_to_power bi.gif](https://github.com/saadelboukhali/Top-UK-YouTubers-2024/blob/4f2ff47b0c42c7fc34ff2cc7d95542e406ca93ee/assets/images/kaggle_to_power%20bi.gif)
 
 
 
