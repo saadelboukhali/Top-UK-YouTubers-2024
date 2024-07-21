@@ -1,7 +1,7 @@
 # Data Portfolio: Excel to Power BI 
 
 
-C:\Users\toshiba\Downloads\kaggle_to_powerbi (4).gif
+assets/images/kaggle_to_power bi.gif
 
 
 
