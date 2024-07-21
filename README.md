@@ -1,7 +1,8 @@
 # Data Portfolio: Excel to Power BI 
 
 
-![Kaggle to Power BI](assets/images/kaggle_to_power bi.gif)
+![Kaggle to Power BI](assets/images/kaggle_to_power%20bi.gif)
+
 
 
 
