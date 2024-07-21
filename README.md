@@ -5,8 +5,6 @@
 
 
 
-
-
 # Table of contents 
 
 - [Objective](#objective)
